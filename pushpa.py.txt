@@ -1,0 +1,7 @@
+# use concatenation() to join two bytearray
+import numpy as np
+arr=np.array([[3,5,7,9],[11,15,18,22])
+arr1=np.array([1,2,3,4],[5,6,7,8]])
+
+print("concatenating two arrays")
+print("concatenating array is:",con)
